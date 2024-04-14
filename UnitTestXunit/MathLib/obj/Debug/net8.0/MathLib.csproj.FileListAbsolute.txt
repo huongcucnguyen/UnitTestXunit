@@ -1,0 +1,11 @@
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/bin/Debug/net8.0/MathLib.deps.json
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/bin/Debug/net8.0/MathLib.dll
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/bin/Debug/net8.0/MathLib.pdb
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/MathLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/MathLib.AssemblyInfoInputs.cache
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/MathLib.AssemblyInfo.cs
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/MathLib.csproj.CoreCompileInputs.cache
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/MathLib.dll
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/refint/MathLib.dll
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/MathLib.pdb
+/Users/huongcuc/Desktop/UnitTestXunit/MathLib/obj/Debug/net8.0/ref/MathLib.dll
